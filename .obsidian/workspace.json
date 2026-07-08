@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "75b533ef157aaba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5bc63034a8515d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56c9dbcdd85c582",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4020f6a3049a34d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "32c60ac225cd7dfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8483d96d6e54fa64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "356f2dde802cc9d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "41675c8ded14ef54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7b379623bbc398d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7108d3b1aead9ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd21fd0c87b966d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Class Routine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Class Routine"
+            }
+          },
+          {
+            "id": "2190e511a0e7f9c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Class Routine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Class Routine"
+            }
+          },
+          {
+            "id": "b9efc78289acdd99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3441da4f2168a17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fb92200d91c0f96d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Class Routine.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Class Routine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a56c9dbcdd85c582",
+  "lastOpenFiles": [
+    "Discreate/ND_Note for CT - 1.md",
+    "2_2/Pasted Image 20260708224059_047.png",
+    "2_2/Math/Plane_Book.pdf",
+    "2_2/Math/MI_Math_2.pdf",
+    "2_2/Math/MI_Math_3.pdf",
+    "2_2/Math/MI_Math_1.pdf",
+    "2_2/Math/CT - Math.md",
+    "2_2/Math/Jk class 01.pdf",
+    "2_2/Math",
+    "2_2/Materials from seniors.md",
+    "2_2/Machine/class 1 - 4.pdf",
+    "2_2/Machine",
+    "2_2/Labs/Machine /Machine Lab manual.pdf",
+    "2_2/Labs/Discreate/Numerical Lab Manual.pdf",
+    "2_2/Lab Routine.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708223644_603.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708223605_073.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708222859_088.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708222613_632.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708222502_095.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708222351_471.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708222242_888.png",
+    "2_2/Discreate/SS of YT/Pasted Image 20260708222123_479.png",
+    "2_2/Discreate/ND_Note for CT - 1.md",
+    "2_2/Discreate/CT Syllabus.md",
+    "2_2/Deadline and Reminders.md",
+    "2_2/DBS/HBK mam Class - 02.md",
+    "2_2/DBS/HBK mam Class - 01.md",
+    "2_2/All Routine.md",
+    "All Routine.md",
+    "Discreate/CT Syllabus.md",
+    "Deadline and Reminders.md",
+    "Materials from seniors.md",
+    "Math/CT - Math.md",
+    "DBS/HBK mam Class - 02.md",
+    "DBS/HBK mam Class - 01.md"
+  ]
+}
