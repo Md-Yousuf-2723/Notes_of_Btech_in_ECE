@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Discreate/ND_Note for CT - 1.md"
+                "file": "Numerical and Discreate/Numerical_Note.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ND_Note for CT - 1"
+              "title": "Numerical_Note"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "213dd917fe20e89c",
@@ -180,6 +179,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a0a42dfc83ac5cf5",
-  "lastOpenFiles": []
+  "active": "8abff0a723e4089b",
+  "lastOpenFiles": [
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709142509_707.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123245_813.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123109_541.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png",
+    "Numerical and Discreate/Numerical_Note.md",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121445_170.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121407_802.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120819_944.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120751_344.png",
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120311_104.png",
+    "Numerical and Discreate/Class meterials/bisection_method.pdf"
+  ]
 }
