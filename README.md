@@ -1,6 +1,5 @@
 ## Hey Reader 👋
 > Knowledge is a gift from Allah, not something we own. It grows when it is shared, not when it is kept. Everyone has some knowledge — even the Quran is with everyone — but knowledge alone does not take a person to Jannah. What matters is being guided and acting on what we know. So sharing my notes does not put me behind anyone. It pleases Allah and helps others learn too. Being jealous or holding knowledge back only hurts our own heart and can lead us astray.
-## All help comes from Allah Alone. If this notes helped you then I am grateful that Allah choosed me as a medium to help you and be greatful to Allah.
 <details>
 <summary><b>Some references according to Quran and hadiths of my thoughts</b></summary>
 
