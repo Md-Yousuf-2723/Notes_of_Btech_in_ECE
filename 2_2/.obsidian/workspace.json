@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "325d38d0f074521a",
+        "id": "7a698b5978cdadbc",
         "type": "tabs",
         "children": [
           {
-            "id": "a0a42dfc83ac5cf5",
+            "id": "f7f767c1183c8137",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Numerical and Discreate/Numerical_Note.md"
+                "file": "Hum/course_outline.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Numerical_Note"
+              "icon": "lucide-file-text",
+              "title": "course_outline"
             }
           }
         ]
@@ -179,20 +179,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8abff0a723e4089b",
+  "active": "f7f767c1183c8137",
   "lastOpenFiles": [
+    "Hum/course_outline.pdf",
+    "Hum/Hum 2217.pdf",
+    "All Routine.md",
+    "Math/MI_Math_Book_2.pdf",
+    "Math/MI_Math_Book_1.pdf",
+    "Numerical and Discreate/Numerical_Note.md",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709142509_707.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123245_813.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123109_541.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png",
-    "Numerical and Discreate/Numerical_Note.md",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121445_170.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121407_802.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120819_944.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120751_344.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120311_104.png",
     "Numerical and Discreate/Class meterials/bisection_method.pdf"
   ]
 }
