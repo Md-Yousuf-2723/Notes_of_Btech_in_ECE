@@ -6,6 +6,6 @@
 | Sun  |              |             | Math         | Machine       |               |               | Discrete Lab  |
 | Mon  |              |             |              | Discrete      | DBS           | Hum           |               |
 | Tues | DBS Lab      |             |              | Discrete      | Machine       | Hum           |               |
-| Wed  |              |             | Machine      | Math          | DBS           | Hum           |               |
+| Wed  |              |             | Machine      | Math          | DBS           | Hum           | Machine Lab   |
 
 ![[Lab Routine.png]]![[CT Routine.png]]

@@ -4,73 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7a698b5978cdadbc",
+        "id": "85243e287aff51c2",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f767c1183c8137",
+            "id": "7d979eeb34ed1707",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hum/course_outline.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "course_outline"
-            }
-          },
-          {
-            "id": "3482cc148bb8659a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hum/Lecture 1 conv.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 1 conv"
-            }
-          },
-          {
-            "id": "d9b7f9c6b33a05cd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hum/Lecture 2 conv.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 2 conv"
-            }
-          },
-          {
-            "id": "36c97ebc2086bd0e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hum/Lecture 3 conv.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 3 conv"
-            }
-          },
-          {
-            "id": "257055cf206172fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All Routine.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "All Routine"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,22 +174,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3482cc148bb8659a",
+  "active": "7d979eeb34ed1707",
   "lastOpenFiles": [
-    "Hum/Lecture 2 conv.pdf",
-    "Hum/Lecture 1 conv.pdf",
-    "Hum/course_outline.pdf",
-    "Hum/Lecture 3 conv.pdf",
+    "Labs/DBS/lab_1_by_NIS_mam.pdf",
+    "Labs/DBS/DBS_Lab_02.pdf",
+    "Labs/DBS/DBS_Lab_01.pdf",
+    "Labs/DBS/lab - 2 MUST DO.md",
     "All Routine.md",
-    "Hum/Hum 2217.pdf",
-    "Math/MI_Math_Book_2.pdf",
+    "offcial_routine.jpeg",
+    "Math/course_outline.pdf",
+    "Materials from seniors.md",
+    "Math/CT - Math.md",
+    "Math/Math_Series_Solution.pdf",
+    "Math/MI_Math_1.pdf",
     "Math/MI_Math_Book_1.pdf",
+    "Math/MI_Math_Book_2.pdf",
+    "Math/MI_Math_3.pdf",
+    "Math/MI_Math_2.pdf",
+    "Hum/Lecture 1 conv.pdf",
     "Numerical and Discreate/Numerical_Note.md",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709142509_707.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png",
@@ -252,8 +204,6 @@
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121445_170.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121407_802.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120819_944.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120751_344.png",
-    "Numerical and Discreate/Class meterials/bisection_method.pdf"
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120819_944.png"
   ]
 }
