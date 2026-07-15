@@ -11,10 +11,12 @@
             "id": "6dd1bc4011538069",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Labs/Numerical and Discreate/Numerical Lab Manual.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Numerical Lab Manual"
             }
           }
         ]
@@ -177,21 +179,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6dd1bc4011538069",
+  "active": "8abff0a723e4089b",
   "lastOpenFiles": [
+    "Labs/Numerical and Discreate/Numerical Course outline.pdf",
+    "Labs/DBS/repo_2.pdf",
+    "Labs/DBS/repo_1.pdf",
+    "Labs/DBS/lab_1_by_NIS_mam.pdf",
+    "Labs/Machine /repo_1.pdf",
+    "Labs/Machine /Machine Lab manual 1.pdf",
+    "Labs/Machine /Lab Manual_ECE2208.pdf",
+    "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
     "Track and some files/Lab Routine.png",
     "Numerical and Discreate/Class meterials/Newton_Raphson_Method_Presentation.pdf",
     "Hum/Hum_CT_1.pdf",
-    "Labs/Machine /Machine_Lab_01.pdf",
     "Labs/Machine /Machine Lab manual.pdf",
-    "Labs/Machine /Machine Lab manual 1.pdf",
-    "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
-    "Labs/Numerical and Discreate/Numerical Course outline.pdf",
     "All Routine.md",
     "Track and some files/Academic Track.md",
-    "Track and some files",
-    "Labs/DBS/lab_1_by_NIS_mam.pdf",
-    "Labs/DBS/DBS_Lab_02.pdf",
     "Labs/DBS/lab - 2 MUST DO.md",
     "Track and some files/offcial_routine.jpeg",
     "Track and some files/Materials from seniors.md",
@@ -204,7 +207,6 @@
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121445_170.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121407_802.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709120819_944.png"
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121407_802.png"
   ]
 }
