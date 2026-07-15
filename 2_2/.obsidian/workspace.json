@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85243e287aff51c2",
+        "id": "1017e96434b36fdb",
         "type": "tabs",
         "children": [
           {
-            "id": "7d979eeb34ed1707",
+            "id": "6dd1bc4011538069",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,24 +177,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d979eeb34ed1707",
+  "active": "6dd1bc4011538069",
   "lastOpenFiles": [
+    "Track and some files/Lab Routine.png",
+    "Numerical and Discreate/Class meterials/Newton_Raphson_Method_Presentation.pdf",
+    "Hum/Hum_CT_1.pdf",
+    "Labs/Machine /Machine_Lab_01.pdf",
+    "Labs/Machine /Machine Lab manual.pdf",
+    "Labs/Machine /Machine Lab manual 1.pdf",
+    "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
+    "Labs/Numerical and Discreate/Numerical Course outline.pdf",
+    "All Routine.md",
+    "Track and some files/Academic Track.md",
+    "Track and some files",
     "Labs/DBS/lab_1_by_NIS_mam.pdf",
     "Labs/DBS/DBS_Lab_02.pdf",
-    "Labs/DBS/DBS_Lab_01.pdf",
     "Labs/DBS/lab - 2 MUST DO.md",
-    "All Routine.md",
-    "offcial_routine.jpeg",
-    "Math/course_outline.pdf",
-    "Materials from seniors.md",
+    "Track and some files/offcial_routine.jpeg",
+    "Track and some files/Materials from seniors.md",
     "Math/CT - Math.md",
-    "Math/Math_Series_Solution.pdf",
-    "Math/MI_Math_1.pdf",
-    "Math/MI_Math_Book_1.pdf",
-    "Math/MI_Math_Book_2.pdf",
-    "Math/MI_Math_3.pdf",
-    "Math/MI_Math_2.pdf",
-    "Hum/Lecture 1 conv.pdf",
     "Numerical and Discreate/Numerical_Note.md",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709142509_707.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png",
