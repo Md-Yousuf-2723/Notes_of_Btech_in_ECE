@@ -8,4 +8,6 @@
 | Tues | DBS Lab      |             |              | Discrete      | Machine       | Hum           |               |
 | Wed  |              |             | Machine      | Math          | DBS           | Hum           |               |
 
-![[Lab Routine.png]]![[CT Routine.png]]
+![[Lab Routine.png]]
+### Note : 5th week --> NIS CT : Wed
+![[CT Routine.png]]
