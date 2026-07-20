@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "All Routine"
             }
+          },
+          {
+            "id": "5803976a0dd574db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Track and some files/Academic Track.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academic Track"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,21 +196,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54eb3598bfdc5510",
+  "active": "5803976a0dd574db",
   "lastOpenFiles": [
+    "All Routine.md",
+    "Hum/Chapter-2_slide.pdf",
+    "Hum/Chapter-2.pdf",
+    "Hum/Chapter-1_slide.pdf",
+    "Hum/Chapter-1.pdf",
+    "CEP_Justification_ECE_2100_23S.pdf",
     "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
     "Labs/Numerical and Discreate/lab_2_eq_2.m",
     "Labs/Numerical and Discreate/lab_2_eq_1.m",
     "Labs/Numerical and Discreate/lab_1_eq_2.m",
     "Labs/Numerical and Discreate/lab_1_eq_1.m",
-    "All Routine.md",
-    "Labs/Numerical and Discreate/Numerical Course outline.pdf",
-    "Numerical and Discreate/Sastry book.pdf",
     "Numerical and Discreate/Numerical_Note.md",
-    "Numerical and Discreate/ECE 2214 OUTLINE.pdf",
-    "Labs/DBS/repo_2.pdf",
-    "Labs/DBS/repo_1.pdf",
-    "Labs/DBS/lab_1_by_NIS_mam.pdf",
     "Track and some files/Lab Routine.png",
     "Track and some files/Academic Track.md",
     "Labs/DBS/lab - 2 MUST DO.md",

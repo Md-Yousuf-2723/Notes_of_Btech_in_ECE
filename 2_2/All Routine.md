@@ -9,5 +9,5 @@
 | Wed  |              |             | Machine      | Math          | DBS           | Hum           |               |
 
 ![[Lab Routine.png]]
-### Note : 5th week --> NIS CT : Wed
+### Note : 5th week --> Hum CT : Tues + DBS CT : Wed
 ![[CT Routine.png]]
