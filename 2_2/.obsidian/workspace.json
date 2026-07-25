@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "219b7e5afad9043d",
+        "id": "365a9a22eead06dd",
         "type": "tabs",
         "children": [
           {
-            "id": "756a3fd4ded1f394",
+            "id": "356aa897155146a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "213dd917fe20e89c",
@@ -178,10 +177,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "756a3fd4ded1f394",
+  "active": "356aa897155146a6",
   "lastOpenFiles": [
-    "Labs/Machine /Machine Lab manual 1.pdf",
+    "Math/JK class 04.pdf",
     "All Routine.md",
+    "Track and some files/CT Routine.png",
+    "Track and some files/Academic Track.md",
+    "Labs/Machine /Machine Lab manual 1.pdf",
     "Labs/Machine /repo_2.pdf",
     "Labs/Machine /Machine_Lab_02.pdf",
     "Labs/Machine /Lab Manual_ECE2208.pdf",
@@ -189,7 +191,6 @@
     "Machine/Electric Machinery Fundamentals-Stephen J. Chapman.pdf",
     "Machine/Electric Machines (2n Edition) - Charles I. Hubert.pdf",
     "Track and some files/CT Routine.png",
-    "Track and some files/Academic Track.md",
     "Hum/Chapter-2_slide.pdf",
     "Hum/Chapter-2.pdf",
     "Hum/Chapter-1_slide.pdf",
@@ -204,7 +205,6 @@
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123245_813.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123109_541.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709121445_170.png"
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png"
   ]
 }
