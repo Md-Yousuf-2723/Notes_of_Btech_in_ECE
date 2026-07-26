@@ -7,7 +7,7 @@
 | Mon  |              |             |              | ND            | Machine       | Hum           |               |
 | Tues | DBS Lab      |             |              | ND            | Hum           | Machine       |               |
 | Wed  | ND Lab       |             |              | Math          | DBS           | Hum           |               |
-### Wednesday and Sunday --> Swapped 
+
 
 ![[Lab Routine.png]]
 ![[CT Routine.png]]
