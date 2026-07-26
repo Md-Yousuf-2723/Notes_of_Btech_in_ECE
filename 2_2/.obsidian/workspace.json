@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "365a9a22eead06dd",
+        "id": "5c19ff674546f9a5",
         "type": "tabs",
         "children": [
           {
-            "id": "356aa897155146a6",
+            "id": "957dc62ce3aa6bb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Track and some files/Academic Track.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Academic Track"
             }
           }
         ]
@@ -177,34 +181,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "356aa897155146a6",
+  "active": "957dc62ce3aa6bb9",
   "lastOpenFiles": [
-    "Math/JK class 04.pdf",
-    "All Routine.md",
     "Track and some files/CT Routine.png",
+    "Track and some files/Lab Routine.png",
+    "Track and some files/Materials from seniors.md",
+    "Track and some files/offcial Routine.jpeg",
+    "Track and some files/offcial_routine.jpeg",
     "Track and some files/Academic Track.md",
-    "Labs/Machine /Machine Lab manual 1.pdf",
-    "Labs/Machine /repo_2.pdf",
-    "Labs/Machine /Machine_Lab_02.pdf",
+    "All Routine.md",
+    "Machine/L-01_ECE-2207.pdf",
+    "Machine/ECE 2207.pdf",
+    "Labs/Machine /2106 Lab manual by FT mam.pdf",
     "Labs/Machine /Lab Manual_ECE2208.pdf",
-    "Machine/Ch-34.pdf",
+    "Labs/Machine /Machine Lab manual 1.pdf",
+    "Machine/L-03_ECE-2107.pdf",
+    "Labs/Machine /repo_2.pdf",
     "Machine/Electric Machinery Fundamentals-Stephen J. Chapman.pdf",
     "Machine/Electric Machines (2n Edition) - Charles I. Hubert.pdf",
-    "Track and some files/CT Routine.png",
-    "Hum/Chapter-2_slide.pdf",
-    "Hum/Chapter-2.pdf",
-    "Hum/Chapter-1_slide.pdf",
+    "Machine/L-02_ECE-2207.pdf",
+    "Deadline and Reminders.md",
     "Numerical and Discreate/Numerical_Note.md",
-    "Track and some files/Lab Routine.png",
     "Labs/DBS/lab - 2 MUST DO.md",
-    "Track and some files/offcial_routine.jpeg",
-    "Track and some files/Materials from seniors.md",
     "Math/CT - Math.md",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709142509_707.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123245_813.png",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123109_541.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709122012_414.png"
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png"
   ]
 }
