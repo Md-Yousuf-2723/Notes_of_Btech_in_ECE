@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c19ff674546f9a5",
+        "id": "09f20e358891314c",
         "type": "tabs",
         "children": [
           {
-            "id": "957dc62ce3aa6bb9",
+            "id": "5e75eaf1a73af5eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "All Routine"
+            }
+          },
+          {
+            "id": "e5c3c002ea2be1a6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Track and some files/offcial Routine.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "offcial Routine"
             }
           }
         ]
@@ -181,25 +193,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "957dc62ce3aa6bb9",
+  "active": "5e75eaf1a73af5eb",
   "lastOpenFiles": [
+    "Track and some files/offcial Routine.jpeg",
+    "All Routine.md",
+    "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
+    "Labs/Numerical and Discreate/ND_Lab_repo_01.pdf",
+    "Labs/Numerical and Discreate/lab_2_eq_2.m",
+    "Labs/Numerical and Discreate/lab_2_eq_1.m",
+    "Labs/Numerical and Discreate/lab_3_eq_2.m",
+    "Labs/Numerical and Discreate/lab_3_eq_1.m",
+    "Labs/Numerical and Discreate/ND_report___2.pdf",
+    "Labs/Numerical and Discreate/ND_report___3.pdf",
+    "Labs/Numerical and Discreate/ND_report___.pdf",
+    "Labs/Numerical and Discreate/ND_report___1.pdf",
     "Track and some files/Academic Track.md",
     "Track and some files/CT Routine.png",
     "Track and some files/Lab Routine.png",
     "Track and some files/Materials from seniors.md",
-    "Track and some files/offcial Routine.jpeg",
     "Track and some files/offcial_routine.jpeg",
-    "All Routine.md",
-    "Machine/L-01_ECE-2207.pdf",
-    "Machine/ECE 2207.pdf",
-    "Labs/Machine /2106 Lab manual by FT mam.pdf",
-    "Labs/Machine /Lab Manual_ECE2208.pdf",
-    "Labs/Machine /Machine Lab manual 1.pdf",
-    "Machine/L-03_ECE-2107.pdf",
-    "Labs/Machine /repo_2.pdf",
-    "Machine/Electric Machinery Fundamentals-Stephen J. Chapman.pdf",
-    "Machine/Electric Machines (2n Edition) - Charles I. Hubert.pdf",
-    "Machine/L-02_ECE-2207.pdf",
     "Deadline and Reminders.md",
     "Numerical and Discreate/Numerical_Note.md",
     "Labs/DBS/lab - 2 MUST DO.md",
