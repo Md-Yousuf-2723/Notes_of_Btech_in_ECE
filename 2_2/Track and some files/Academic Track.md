@@ -14,15 +14,15 @@
 | DBS       | 1             |
 | Machine   |               |
 | ND        | 1             |
-| Elec Shop |               |
+| Elec Shop | 2             |
 ## CT Marks
 
 | Course name | CT - 1 | CT - 2 | CT - 3 | CT - 4 | Avg |
 | ----------- | ------ | ------ | ------ | ------ | --- |
 | DBS         | 0      |        |        |        |     |
 | ND          |        |        |        |        |     |
-| Machine     |        |        |        |        |     |
-| Math        | 16     |        |        |        |     |
+| Machine     | 0      |        |        |        |     |
+| Math        | 16     | 0      |        |        |     |
 | Hum         | 12     |        |        |        |     |
 ## CG Track
 

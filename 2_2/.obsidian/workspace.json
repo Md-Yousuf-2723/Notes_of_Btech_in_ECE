@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "All Routine"
             }
-          },
-          {
-            "id": "e5c3c002ea2be1a6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Track and some files/offcial Routine.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "offcial Routine"
-            }
           }
         ]
       }
@@ -195,8 +183,9 @@
   },
   "active": "5e75eaf1a73af5eb",
   "lastOpenFiles": [
-    "Track and some files/offcial Routine.jpeg",
+    "Track and some files/Academic Track.md",
     "All Routine.md",
+    "Track and some files/offcial Routine.jpeg",
     "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
     "Labs/Numerical and Discreate/ND_Lab_repo_01.pdf",
     "Labs/Numerical and Discreate/lab_2_eq_2.m",
@@ -207,7 +196,6 @@
     "Labs/Numerical and Discreate/ND_report___3.pdf",
     "Labs/Numerical and Discreate/ND_report___.pdf",
     "Labs/Numerical and Discreate/ND_report___1.pdf",
-    "Track and some files/Academic Track.md",
     "Track and some files/CT Routine.png",
     "Track and some files/Lab Routine.png",
     "Track and some files/Materials from seniors.md",
