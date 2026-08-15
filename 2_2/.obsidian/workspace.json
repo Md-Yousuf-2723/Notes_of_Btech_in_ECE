@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09f20e358891314c",
+        "id": "89fc5b33bfc76369",
         "type": "tabs",
         "children": [
           {
-            "id": "5e75eaf1a73af5eb",
+            "id": "4b8c89292fa2a70c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,10 +183,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e75eaf1a73af5eb",
+  "active": "4b8c89292fa2a70c",
   "lastOpenFiles": [
-    "Track and some files/Academic Track.md",
+    "Track and some files/official Routine.jpeg",
     "All Routine.md",
+    "Track and some files/Lab_Routines.png",
+    "Track and some files/CT Routine 2.png",
+    "Track and some files/Lab Routine.png",
+    "Track and some files/Lab_Routines.png",
+    "Track and some files/Academic Track.md",
     "Track and some files/offcial Routine.jpeg",
     "Labs/Numerical and Discreate/Numerical Lab Manual.pdf",
     "Labs/Numerical and Discreate/ND_Lab_repo_01.pdf",
@@ -196,8 +203,7 @@
     "Labs/Numerical and Discreate/ND_report___3.pdf",
     "Labs/Numerical and Discreate/ND_report___.pdf",
     "Labs/Numerical and Discreate/ND_report___1.pdf",
-    "Track and some files/CT Routine.png",
-    "Track and some files/Lab Routine.png",
+    "Track and some files/CT Routine 1.png",
     "Track and some files/Materials from seniors.md",
     "Track and some files/offcial_routine.jpeg",
     "Deadline and Reminders.md",
@@ -205,9 +211,6 @@
     "Labs/DBS/lab - 2 MUST DO.md",
     "Math/CT - Math.md",
     "Numerical and Discreate/SS of YT lec/Pasted Image 20260709142509_707.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123245_813.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123109_541.png",
-    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123013_183.png"
+    "Numerical and Discreate/SS of YT lec/Pasted Image 20260709123556_290.png"
   ]
 }
